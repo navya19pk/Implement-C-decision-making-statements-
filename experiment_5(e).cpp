@@ -1,3 +1,7 @@
+// Navya Pawan Khajuria 
+// 24070123151
+// B3
+
 #include <iostream>
 using namespace std;
 
@@ -29,3 +33,9 @@ int main() {
 
     return 0;
 }
+
+//Output:
+//Enter three numbers: 19
+//23
+//16
+//The largest number is: 23
