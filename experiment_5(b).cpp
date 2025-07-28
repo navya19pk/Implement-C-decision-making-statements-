@@ -1,3 +1,7 @@
+// Navya Pawan Khajuria 
+// 24070123151
+// B3
+
 #include <iostream>
 using namespace std;
 
@@ -20,3 +24,7 @@ int main() {
 
     return 0;
 }
+
+//Output:
+//Enter a character: n
+//n is a consonant.
