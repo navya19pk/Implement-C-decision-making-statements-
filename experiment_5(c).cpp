@@ -1,3 +1,7 @@
+// Navya Pawan Khajuria 
+// 24070123151
+// B3
+
 #include <iostream>
 using namespace std;
 
@@ -35,3 +39,7 @@ int main() {
 
     return 0;
 }
+
+//Output:
+//Enter a number (1 to 7) to get the weekday: 2
+//Tuesday
